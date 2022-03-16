@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-sdssumpw",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Calculate the sum of single-precision floating-point strided array elements using pairwise summation with extended accumulation.",
   "license": "Apache-2.0",
   "author": {
