@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-06-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`7457723`](https://github.com/stdlib-js/stdlib/commit/74577238d8a2c72ecd1011dfd54d028034c68531) - **refactor:** rename variable in `blas/ext/base/` [(#7250)](https://github.com/stdlib-js/stdlib/pull/7250) _(by Shabareesh Shetty)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`a0fed4b`](https://github.com/stdlib-js/stdlib/commit/a0fed4bc22ae6098d4366f1d43fb4ed263f4c235) - **feat:** add C `ndarray` API and refactor `blas/ext/base/sdssumpw` [(#4823)](https://github.com/stdlib-js/stdlib/pull/4823) _(by Muhammad Haris)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -38,11 +39,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
 -   Philipp Burckhardt
+-   Shabareesh Shetty
 
 </section>
 
